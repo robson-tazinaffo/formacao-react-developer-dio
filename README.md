@@ -2,10 +2,7 @@
 
 
 
-<div><center>
-<img align="center" alt="React" height="200" width="200" src="https://hermes.dio.me/tracks/68c81887-a1c2-440d-a7ea-7777bc10cd41.png" />
-</div>
-
+![](images\formacao-react.webp)
 
 
 ### Detalhes da formação
@@ -57,7 +54,7 @@ Chegou a hora de evoluir seu Front-end criando Web Apps dinâmicas com React ⚛
 		<td>
             <center>
                 <a href="">
-                    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" width="50" alt="Jira"/>
+                    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" width="50" alt="VSCode"/>
                 </a>
             </center>
 		</td>
@@ -77,6 +74,7 @@ Chegou a hora de evoluir seu Front-end criando Web Apps dinâmicas com React ⚛
         </td>
     </tr>
 </table>
+
 
 
 
